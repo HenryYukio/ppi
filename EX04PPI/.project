@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>EX03PPI</name>
+	<name>EX04PPI</name>
 	<comment></comment>
 	<projects>
 		<project>mysql-connector-java-5-1-30</project>
