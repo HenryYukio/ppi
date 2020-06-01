@@ -1,0 +1,29 @@
+
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+ListarPaisesReiniciar
+ListarPaisesReiniciar
+null
+null
+null
+null
+FazerLogin
+FazerLogin
+henry@yukio.com -> null
+null -> henry@yukio.com
+henry@yukio.com -> ListarPaisesReiniciar
+ListarPaisesReiniciar -> henry@yukio.com
+henry@yukio.com -> null
+null -> henry@yukio.com
+henry@yukio.com -> ListarPaisesReiniciar
+ListarPaisesReiniciar -> henry@yukio.com
+henry@yukio.com -> ListarPaisesBuscar
+ListarPaisesBuscar -> henry@yukio.com

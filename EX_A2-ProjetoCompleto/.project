@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>ExA2-ProjetoCompleto</name>
+	<name>EX_A2-ProjetoCompleto</name>
 	<comment></comment>
 	<projects>
 		<project>javax.servlet.jsp.jstl-api-1.2.1</project>
